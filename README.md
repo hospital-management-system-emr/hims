@@ -8,7 +8,7 @@ If you have any issues please send us mail at shiv_koirala@yahoo.com  more than 
 </a> 
 <br> <br> <br><br>
 Scripts and tools will be listed here <br>
-<a href="https://github.com/opensource-emr/cleanupDanpheDM">Clean up script to start from scratch</a> <br>
+<a href="https://github.com/hospital-management-system-emr/cleanupscript">Clean up script to start from scratch</a> <br>
  <br>
  If you wish to see demo <a href="http://202.51.74.168:302" target="_blank">
  Click here
