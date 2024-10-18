@@ -8,7 +8,6 @@ If you have any issues please send us mail at shiv_koirala@yahoo.com  more than 
 </a> 
 This section has the necessary help documents needed to understand Database application. <br>
 <a href="https://github.com/hospital-management-system-emr/DatabaseUnderstanding">Database understanding documents</a> <br>
-   <br>
 <a href="https://github.com/hospital-management-system-emr/cleanupscript">Clean up script to start from scratch</a> <br>
  If you wish to see demo <a href="http://202.51.74.168:302" target="_blank">
  Click here
