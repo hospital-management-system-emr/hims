@@ -6,7 +6,6 @@ We will be adding more videos in coming time.
 If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
  Chat with us here.
 </a> 
-<br> 
 This section has the necessary help documents needed to understand Database application. <br>
 <a href="https://github.com/hospital-management-system-emr/DatabaseUnderstanding">Database understanding documents</a> <br>
    <br>
