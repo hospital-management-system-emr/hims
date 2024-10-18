@@ -6,10 +6,11 @@ We will be adding more videos in coming time.
 If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
  Chat with us here.
 </a> 
-<br> <br> <br><br>
-Scripts and tools will be listed here <br>
+<br> 
+This section has the necessary help documents needed to understand Database application.
+<a href="[https://github.com/hospital-management-system-emr/cleanupscript](https://github.com/hospital-management-system-emr/DatabaseUnderstanding)">Database understanding documents</a> <br>
+   <br>
 <a href="https://github.com/hospital-management-system-emr/cleanupscript">Clean up script to start from scratch</a> <br>
- <br>
  If you wish to see demo <a href="http://202.51.74.168:302" target="_blank">
  Click here
 </a> Username  : admin / Password  : pass123 <br>
