@@ -37,6 +37,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
   - [Danphe Modules](#-danphe-modules)
   - [DB Understanding Tutorial](#-db-understanding-tutorial)
   - [Cleanup Scripts](#-cleanup-scripts)
+  - [Supported LIS Machines](#supported-lis-machines)
   - [Credits](#credits)
   - [License](#-license)
   - [Contacts](#-contacts)
@@ -128,6 +129,106 @@ Danphe EMR includes the following modules:
 ## 🧹 Cleanup Scripts  
 
 *Just a blank space be sure to wait for us a bit more.*  
+
+---
+
+## Supported LIS Machines
+
+<div align="center">
+
+<table style="width:80%; border: 3px light grey;">
+  <tr>
+    <th colspan="4" style="text-align:center; font-size: 20px; padding: 10px;">LIS Machines List</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Rx Randox</td>
+    <td style="padding: 10px;">Rx Medona</td>
+    <td style="padding: 10px;">Dx Diatron P500 and P70</td>
+    <td style="padding: 10px;">Maglumi X3</td>
+  </tr>
+  <tr>
+    <td>Horiba P8000</td>
+    <td>Mispa CX8</td>
+    <td>Medcon 3000</td>
+    <td>Snibe Biossays</td>
+  </tr>
+  <tr>
+    <td>DxH500</td>
+    <td>Selectra Mach 5</td>
+    <td>Alinity Abbott</td>
+    <td>Snibe Maglumi 1000 and 2000</td>
+  </tr>
+  <tr>
+    <td>Dymind</td>
+    <td>Medonic M51</td>
+    <td>Sysmex 330 and 350</td>
+    <td>Liasion</td>
+  </tr>
+  <tr>
+    <td>Erba XL 200</td>
+    <td>Rx Daytona+</td>
+    <td>Vitros 250 and 350</td>
+    <td>Vitros ECIQ</td>
+  </tr>
+  <tr>
+    <td>Vitros 350</td>
+    <td>Vitros 250AT</td>
+    <td>Sysmex N330</td>
+    <td>Medonic M51</td>
+  </tr>
+  <tr>
+    <td>Sysmex N350</td>
+    <td>ERBA XL640</td>
+    <td>RX Daytona Plus</td>
+    <td>RX Imola</td>
+  </tr>
+  <tr>
+    <td>Dymind</td>
+    <td>SNIBE MAGLUMI 2000</td>
+    <td>SNIBE MAGLUMI 1000</td>
+    <td>Response 920</td>
+  </tr>
+  <tr>
+    <td>ERBA XL 1000</td>
+    <td>SNIBE MAGLUMI X8</td>
+    <td>RX Modena</td>
+    <td>Sysmex 1000</td>
+  </tr>
+  <tr>
+    <td>Alinity Abbott</td>
+    <td>Mispa CX8</td>
+    <td>Horiba YP8</td>
+    <td>HORIBA H550</td>
+  </tr>
+  <tr>
+    <td>RealMind MCL-60</td>
+    <td>Selectra PRO-S</td>
+    <td>Sysmex N350</td>
+    <td>CSense-200CD</td>
+  </tr>
+  <tr>
+    <td>ERBA XL 300</td>
+    <td>HUMAN-5D</td>
+    <td>SNIBE BIOSSAYS 240 PLUS</td>
+    <td>DxH-560</td>
+  </tr>
+  <tr>
+    <td>BA400</td>
+    <td>LIAISON</td>
+    <td>Medconn MQ-3000</td>
+    <td>Diatron P500</td>
+  </tr>
+  <tr>
+    <td>Maglumi X3 - SNIBE</td>
+    <td>..................</td>
+    <td>..................</td>
+    <td>..................</td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ---
 
