@@ -17,37 +17,29 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 ## 🛠 Tech Stack  
 <p align="center">
   <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC"> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">     </a>
-  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
-  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
+  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   </p>
   
 ---
 
 ## 📖 Table of Contents
-- [Hospital Management System EMR](#hospital-management-system-emr)
+
   - [Overview](#overview)
-    - [Achievements](#achievements)
-  - [🛠 Tech Stack](#-tech-stack)
-  - [📖 Table of Contents](#-table-of-contents)
-  - [📜 Introduction](#-introduction)
-      - [Be sure to contact us if you are in any issues:](#be-sure-to-contact-us-if-you-are-in-any-issues)
-  - [❗️ Having Issues](#️-having-issues)
-  - [🌐 Demo Link](#-demo-link)
-  - [🖥 Installing Danphe (For Support)](#-installing-danphe-for-support)
-    - [🛠 Installation Guides](#-installation-guides)
-  - [⚙ Installation and Setup (For Developers)](#-installation-and-setup-for-developers)
-    - [Overview:](#overview-1)
-  - [📂 Danphe Modules](#-danphe-modules)
-  - [📚 DB Understanding Tutorial](#-db-understanding-tutorial)
-  - [🧹 Cleanup Scripts](#-cleanup-scripts)
+  - [Tech Stack](#-tech-stack)
+  - [Table of Contents](#-table-of-contents)
+  - [Introduction](#-introduction)
+  - [Having Issues](#️-having-issues)
+  - [Demo Link](#-demo-link)
+  - [Installing Danphe (For Support)](#-installing-danphe-for-support)
+  - [Installation and Setup (For Developers)](#-installation-and-setup-for-developers)
+  - [Danphe Modules](#-danphe-modules)
+  - [DB Understanding Tutorial](#-db-understanding-tutorial)
+  - [Cleanup Scripts](#-cleanup-scripts)
   - [Credits](#credits)
-    - [Sponsor](#sponsor)
-    - [Contributors](#contributors)
-  - [📃 License](#-license)
-  - [💬 Contacts](#-contacts)
+  - [License](#-license)
+  - [Contacts](#-contacts)
 
 ---
 
