@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Hospital Management System EMR  
 
-![Hospital Management System EMR](DANPHE.png)
+![Hospital Management System EMR](https://user-images.githubusercontent.com/48054642/159859670-05cbe026-f0eb-43cf-811a-0404a36a76f7.jpg)
 
 ## Overview  
 
