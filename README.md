@@ -57,7 +57,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 
 Danphe EMR is an open-source web-based HIMS + EMR + EHR to make hospitals digitized. It is live in 60-plus hospitals in Nepal, India, Bangladesh, Kenya, and many other countries. It has around [20 plus modules](https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md#-danphe-modules) like Clinical, Billing, Accounting, Pharmacy, Labs, Inventory, Radiology, Nursing, Emergency, [50 plus Lab machine](https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/edit/master/README.md#supported-lis-machines) integration, and so on. 
 
-[For the complete list check here](./wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf). <br>
+[For the complete list check here](Code/Websites/DanpheEMR/wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf). <br>
 #### You can probably see the demo from these provided link to install danphe.<br>
 > If you are a support person then please [follow this video](https://www.youtube.com/watch?v=lKORZmKG0sA) & also [this video](https://www.youtube.com/watch?v=HmAAbFiPOKw).<br>
 > If you are a developer you can follow [this specific video](https://opensource-emr.github.io/hospital-management-emr/#setup).
