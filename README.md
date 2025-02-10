@@ -27,6 +27,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 
 ## 📖 Table of Contents
 
+
 - [Hospital Management System EMR](#hospital-management-system-emr)
   - [Overview](#overview)
     - [Achievements](#achievements)
@@ -60,7 +61,7 @@ Danphe EMR is an open-source web-based HIMS + EMR + EHR to make hospitals digiti
 [For the complete list check here](Code/Websites/DanpheEMR/wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf). <br>
 #### You can probably see the demo from these provided link to install danphe.<br>
 > If you are a support person then please [follow this video](https://www.youtube.com/watch?v=lKORZmKG0sA) & also [this video](https://www.youtube.com/watch?v=HmAAbFiPOKw).<br>
-> If you are a developer you can follow [this specific video](https://opensource-emr.github.io/hospital-management-emr/#setup).
+> If you are a developer you can follow [this specific guide](https://opensource-emr.github.io/hospital-management-emr/#setup) to get carried on.
 #### Be sure to contact us if you are in any issues:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Support:** [Danphe Support](https://www.ehospitalmanagementsystem.com/)  
