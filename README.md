@@ -26,8 +26,6 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 ---
 
 ## 📖 Table of Contents
-
-
 - [Hospital Management System EMR](#hospital-management-system-emr)
   - [Overview](#overview)
     - [Achievements](#achievements)
@@ -51,7 +49,6 @@ Danphe HMIS has been consistent throughout these years and with that there are s
     - [Contributors](#contributors)
   - [📃 License](#-license)
   - [💬 Contacts](#-contacts)
-
 ---
 
 ## 📜 Introduction
