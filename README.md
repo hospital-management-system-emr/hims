@@ -27,30 +27,20 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 
 ## 📖 Table of Contents
 
-
-- [Hospital Management System EMR](#hospital-management-system-emr)
   - [Overview](#overview)
-    - [Achievements](#achievements)
-  - [🛠 Tech Stack](#-tech-stack)
-  - [📖 Table of Contents](#-table-of-contents)
-  - [📜 Introduction](#-introduction)
-      - [You can probably see the demo from these provided link to install danphe.](#you-can-probably-see-the-demo-from-these-provided-link-to-install-danphe)
-      - [Be sure to contact us if you are in any issues:](#be-sure-to-contact-us-if-you-are-in-any-issues)
-  - [🖥 Installing Danphe (For Support)](#-installing-danphe-for-support)
-    - [🛠 Installation Guides](#-installation-guides)
-  - [❗️ Having Issues](#️-having-issues)
-  - [🌐 Demo Link](#-demo-link)
-  - [⚙ Installation and Setup (For Developers)](#-installation-and-setup-for-developers)
-    - [Overview:](#overview-1)
-  - [📂 Danphe Modules](#-danphe-modules)
-  - [📚 DB Understanding Tutorial](#-db-understanding-tutorial)
-  - [🧹 Cleanup Scripts](#-cleanup-scripts)
+  - [Tech Stack](#-tech-stack)
+  - [Table of Contents](#-table-of-contents)
+  - [Installing Danphe (For Support)](#-installing-danphe-for-support)
+  - [Having Issues](#️-having-issues)
+  - [Demo Link](#-demo-link)
+  - [Installation and Setup (For Developers)](#-installation-and-setup-for-developers)
+  - [Danphe Modules](#-danphe-modules)
+  - [DB Understanding Tutorial](#-db-understanding-tutorial)
+  - [Cleanup Scripts](#-cleanup-scripts)
   - [Supported LIS Machines](#supported-lis-machines)
   - [Credits](#credits)
-    - [Sponsor](#sponsor)
-    - [Contributors](#contributors)
-  - [📃 License](#-license)
-  - [💬 Contacts](#-contacts)
+  - [License](#-license)
+  - [Contacts](#-contacts)
 
 ---
 
