@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Hospital Management System EMR  <!-- omit in toc -->
+# Hospital Management System EMR  
 
 ![Hospital Management System EMR](https://user-images.githubusercontent.com/48054642/159859670-05cbe026-f0eb-43cf-811a-0404a36a76f7.jpg)
 
@@ -7,7 +7,7 @@
 
 Danphe EMR is an enterprise web-based application that simplifies hospital management. Over 50 hospitals trust it in Asia (India, Nepal, Bangladesh) and provide comprehensive solutions for daily operations.  
 
-### Achievements <!-- omit in toc -->
+### Achievements 
 Danphe HMIS has been consistent throughout these years and with that there are some achievements we have received.
 1. **[Recommendation letter from Kenya(Kalimoni Mission Hospital)](https://github.com/hospital-management-system-emr/HIMS-EMR-Recommendation/blob/3196c8ce3370cb6619459c13e15417afd00effba/DANPHE%20RECOMMENDATION(Kalimoni).pdf)**  
 2. **[Recommendation letter from India(SGM)](https://github.com/hospital-management-system-emr/HIMS-EMR-Recommendation/blob/3196c8ce3370cb6619459c13e15417afd00effba/recommendation%20later(SGM).pdf)**  
@@ -25,7 +25,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
   
 ---
 
-## 📖 Table of Contents <!-- omit in toc -->
+## 📖 Table of Contents 
 
 - [Overview](#overview)
 - [ Tech Stack](#-tech-stack)
@@ -43,16 +43,16 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 
 ---
 
-## 📜 Introduction <!-- omit in toc -->
+## 📜 Introduction 
 
 Danphe EMR is an open-source web-based HIMS + EMR + EHR to make hospitals digitized. It is live in 60-plus hospitals in Nepal, India, Bangladesh, Kenya, and many other countries. It has around [20 plus modules](https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md#-danphe-modules) like Clinical, Billing, Accounting, Pharmacy, Labs, Inventory, Radiology, Nursing, Emergency, [50 plus Lab machine](https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/edit/master/README.md#supported-lis-machines) integration, and so on. 
 
 [For the complete list check here](Code/Websites/DanpheEMR/wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf). <br>
 
-#### You can probably see the demo from these provided link to install danphe.<br> <!-- omit in toc -->
+#### You can probably see the demo from these provided link to install danphe.<br> 
 > If you are a support person then please [follow this video](https://www.youtube.com/watch?v=lKORZmKG0sA) & also [this video](https://www.youtube.com/watch?v=HmAAbFiPOKw).<br>
 > If you are a developer you can follow [this specific guide](https://opensource-emr.github.io/hospital-management-emr/#setup) to get carried on.
-#### Be sure to contact us if you are in any issues:  <!-- omit in toc -->
+#### Be sure to contact us if you are in any issues:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Support:** [Danphe Support](https://www.ehospitalmanagementsystem.com/)  
 
@@ -61,7 +61,7 @@ Danphe EMR is an open-source web-based HIMS + EMR + EHR to make hospitals digiti
 ## 🖥 Installing Danphe (For Support)  
 
 Have a quick headstart of the Danphe EMR with some of the links listed below be sure to check them out:
-### 🛠 Installation Guides  <!-- omit in toc -->
+### 🛠 Installation Guides 
 1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
 2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**  
 
@@ -94,7 +94,7 @@ Experience the system firsthand:
 
 Start contributing to Danphe EMR with the comprehensive [Setup Guide](https://opensource-emr.github.io/hospital-management-emr/#setup).  
 
-### Overview:  <!-- omit in toc -->
+### Overview:  
 - Clone and contribute  
 - Required tools and software  
 - Step-by-step build and run instructions  
@@ -240,7 +240,7 @@ Danphe EMR includes the following modules:
 
 ## Credits
 
-### Sponsor  <!-- omit in toc -->
+### Sponsor  
 
 A huge appreciation to our partner.
 
@@ -248,7 +248,7 @@ A huge appreciation to our partner.
   <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
 </a>
 
-### Contributors  <!-- omit in toc -->
+### Contributors  
 
 Special thanks to **Imark**, **Danphe**, and all other contributors for their continuous support and development efforts.  
 
