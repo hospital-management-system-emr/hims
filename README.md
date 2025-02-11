@@ -65,7 +65,9 @@ Have a quick headstart of the Danphe EMR with some of the links listed below be 
 1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
 2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**  
 
-
+==============
++ Reporting and Dashboard 
++ Doctors 
 
 ---
 
@@ -230,25 +232,31 @@ Danphe EMR includes the following modules:
     <td>..................</td>
     <td>..................</td>
   </tr>
-</table>
 
+#### Development Setup
 </div>
++ This details for `developers` who wants to `clone DanpheEMR`, Use it and `help` us for improvements.
++ We have all details like software and tools `requirements`
++ Step by step guide for `build and run` project
++ Database creation 
+`and more..`
 
 
-
----
+<a href="https://opensource-emr.github.io/hospital-management-emr/#setup" target="_blank">
+    :point_right: docs
+</a>
 
 ## Credits
 
-### Sponsor  
+## Sponsors
+All sponsors are here. Thanks all sponsors for your contributions.
 
 A huge appreciation to our partner.
 
 <a href="https://www.imarkdigital.com/" target="_blank">
   <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
-</a>
-
-### Contributors  
+## Contributors
+Thanks all contributors. 
 
 Special thanks to **Imark**, **Danphe**, and all other contributors for their continuous support and development efforts.  
 
@@ -274,9 +282,9 @@ Reach to us through our social media platform:
 
 [![Share on Telegram](https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md&text=Check%20out%20this%20project%20on%20GitHub)
 [![Share on Facebook](https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/url?url=https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md&text=Check%20out%20this%20project%20on%20GitHub)
-[![Share on LinkedIn](https://img.shields.io/badge/share-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/share/url?url=https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md&text=Check%20out%20this%20project%20on%20GitHub)  
-
-
+License
 ---
 [Back to top](#top)
+
+See the [LICENSE](https://github.com/opensource-emr/hospital-management-emr/blob/master/LICENSE) file.
 
