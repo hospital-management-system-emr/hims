@@ -102,24 +102,6 @@ Start contributing to Danphe EMR with the comprehensive [Setup Guide](https://op
 ## 📂 Danphe Modules  
 
 Danphe EMR includes the following modules:  
-- **Core Functionalities**:  
-  - Registration/Patient  
-  - Appointment  
-  - Billing  
-  - Inventory Management  
-  - Pharmacy Module  
-  - Laboratory Management  
-
-- **Administrative**:  
-  - Accounting Module  
-  - Reporting and Dashboard  
-  - Admission, Discharge, Transfer (ADT)  
-  - Medical Record  
-
-- **Specialized Modules**:  
-  - Radiology  
-  - Emergency  
-  - Nursing  
 
 - **Danphe HIMS Modules**: 
   - Patient Registration Management
