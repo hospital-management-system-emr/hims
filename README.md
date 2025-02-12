@@ -144,7 +144,7 @@ Danphe EMR includes the following modules:
   - Medical Discharge Summary System
   - Managerial Reporting with Dashboard
 
-Furthermore, if you want to see the whole documentation [check here](Code/Websites/DanpheEMR/wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf). <br>
+- **Furthermore, if you want to see the whole documentation [check here](Code/Websites/DanpheEMR/wwwroot/fileuploads/Danphe-Modules-and-Features-Scoping.pdf).**
 
 ---
 
