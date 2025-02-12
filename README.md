@@ -121,7 +121,7 @@ Danphe EMR includes the following modules:
   - Emergency  
   - Nursing  
 
-- **Danphe HMIS Modules**: 
+- **Danphe HIMS Modules**: 
   - Patient Registration Management
   - Patient Billing System (OP/IP)
   - Outpatient Billing
@@ -131,7 +131,7 @@ Danphe EMR includes the following modules:
   - Pharmacy Management System
   - Integrated Accounting Management System
   - Dr. Fraction Management System (Dynamic)
-  - Patient Online Appointment System (Web Based):
+  - Patient Online Appointment System (Web Based)
   - Patient Management Module
   - Emergency Management System
   - Nursing Management System
@@ -150,7 +150,7 @@ Danphe EMR includes the following modules:
 
 ## 📚 DB Understanding Tutorial  
 
-*We are documenting this part, we will be sure that the result might shock you.*  
+*We are documenting this part, please stick with us.*  
 
 ---
 
